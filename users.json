@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "username": "user123",
+    "password": "pass123",
+    "name": "John Doe",
+    "accessLevel": "user"
+  },
+  {
+    "id": 2,
+    "username": "user456",
+    "password": "pass456",
+    "name": "John Die",
+    "accessLevel": "user"
+  },
+  {
+    "id": 3,
+    "username": "admin1",
+    "password": "hashed_password_admin",
+    "name": "Admin User",
+    "accessLevel": "admin"
+  }
+]
