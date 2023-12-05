@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Ballpoint Pen",
+    "storage": 1,
+    "quantity": 100
+  },
+  {
+    "id": 2,
+    "name": "Notebook",
+    "storage": 3,
+    "quantity": 50
+  },
+  {
+    "id": 3,
+    "name": "Highlighter",
+    "storage": 1,
+    "quantity": 75
+  },
+  {
+    "id": 4,
+    "name": "Sticky Notes",
+    "storage": 2,
+    "quantity": 80
+  },
+  {
+    "id": 5,
+    "name": "Binder Clips",
+    "storage": 2,
+    "quantity": 120
+  }
+]
